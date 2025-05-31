@@ -1,6 +1,6 @@
 # python-sample-projects
 
-# 📁 Project Overview
+
 
 <details>
   <summary>📂 Source Code Folder</summary>
